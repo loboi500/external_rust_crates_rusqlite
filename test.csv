@@ -1,6 +1,3 @@
-"colA","colB","colC"
-1,2,3
-a,b,c
-a,"b",c
-"a","b","c .. z"
-"a","b","c,d"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f5649d7b9f80468999b80d4d0e747c6f4f1bba80ade792689eeb4359dc1834a
+size 72
